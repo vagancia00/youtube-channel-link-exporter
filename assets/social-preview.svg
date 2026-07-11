@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">YouTube Channel Link Exporter</title>
+  <desc id="desc">Agent Skill for exporting clean video-link lists from saved YouTube channel HTML.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff0033"/>
+      <stop offset="1" stop-color="#ff3355"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <circle cx="190" cy="320" r="132" fill="#0d1117" stroke="#30363d" stroke-width="4"/>
+  <rect x="102" y="238" width="176" height="118" rx="32" fill="url(#accent)"/>
+  <path d="M174 266 232 297 174 328Z" fill="#fff"/>
+  <path d="M116 402h148" stroke="#8b949e" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="136" cy="402" r="9" fill="#f0f6fc"/>
+  <circle cx="190" cy="402" r="9" fill="#f0f6fc"/>
+  <circle cx="244" cy="402" r="9" fill="#f0f6fc"/>
+  <text x="380" y="270" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="700">YouTube Channel</text>
+  <text x="380" y="350" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="700">Link Exporter</text>
+  <text x="384" y="414" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30">Saved HTML → ordered TXT link lists</text>
+  <text x="384" y="468" fill="#ff3355" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">AGENT SKILL · LOCAL ONLY · ZERO RUNTIME DEPENDENCIES</text>
+</svg>
