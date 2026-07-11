@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="YouTube Channel Link Exporter icon">
+  <rect width="512" height="512" rx="112" fill="#0d1117"/>
+  <rect x="86" y="104" width="340" height="228" rx="62" fill="#ff0033"/>
+  <path d="M214 163 326 218 214 273Z" fill="#fff"/>
+  <path d="M110 390h292" stroke="#8b949e" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="154" cy="390" r="20" fill="#f0f6fc"/>
+  <circle cx="256" cy="390" r="20" fill="#f0f6fc"/>
+  <circle cx="358" cy="390" r="20" fill="#f0f6fc"/>
+</svg>
